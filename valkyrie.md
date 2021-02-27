@@ -7,14 +7,14 @@
   <summary><b>Combat</b></summary>
 
 <ul>
-<li>Aven's PVP: Beta 7</li>
-<li>Inverted Buckets</a></li>
-<li>Illville's End Crystal</li>
-<li>Illville's Blinding Nether</li>
-<li>Nyan Netherrack</li>
-<li>Illville's Twin Towers Netherrack</li>
-<li>Illville's Skin Totem</a></li>
-<li>Latest Experimental Pack</li>
+<li>AntiCrystal</li>
+<li>AutoAnvil</li>
+<li>AutoArmor</li>
+<li>AutoTrap</li>
+<li>AutoWeb</li>
+<li>BedAura</li>
+<li>Blocker</li>
+<li>FastBow</li>
 </ul>
 
 </details>
