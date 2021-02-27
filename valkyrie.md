@@ -28,3 +28,22 @@
 </ul>
 
 </details>
+
+<details>
+  <summary><b>Exploits</b></summary>
+
+<ul>
+<li>AntiHunger</li>
+<li>CoordExploit</li>
+<li>FastBreak</li>
+<li>LiquidInteract</li>
+<li>NoInteract</li>
+<li>NoSwing</li>
+<li>Reach</li>
+<li>PacketUse</li>
+<li>PacketXp</li>
+<li>PortalGodMode</li>
+  
+</ul>
+
+</details>
