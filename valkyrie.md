@@ -47,3 +47,20 @@
 </ul>
 
 </details>
+
+<details>
+  <summary><b>Movement</b></summary>
+
+<ul>
+<li>Anchor</li>
+<li>Blink</li>
+<li>HoleTP</li>
+<li>PlayerTweaks</li>
+<li>ReverseStep</li>
+<li>Speed</li>
+<li>Sprint</li>
+<li>Step</li>
+  
+</ul>
+
+</details>
