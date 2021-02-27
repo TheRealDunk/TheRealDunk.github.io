@@ -64,3 +64,31 @@
 </ul>
 
 </details>
+
+<details>
+  <summary><b>Misc</b></summary>
+
+<ul>
+<li>Announcer</li>
+<li>AutoGear</li>
+<li>AutoGG</li>
+<li>AutoReply</li>
+<li>AutoRespawn</li>
+<li>AutoTool</li>
+<li>ChatModifier</li>
+<li>ChatSuffix</li>
+<li>DiscordRPC</li>
+<li>DunkDupe</li>
+<li>FastPlace</li>
+<li>FakePlayer</li>
+<li>MultiTask</li>
+<li>NoEntityTrace</li>
+<li>NoKick</li>
+<li>PhysicsSpammer</li>
+<li>PvPInfo</li>
+<li>SortInventory</li>
+
+  
+</ul>
+
+</details>
