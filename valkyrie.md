@@ -1,7 +1,7 @@
 
 # Valkyrie
 
-### Valkyrie is a private client currently not open to the public
+#### Valkyrie is a private client currently not open to the public
 
 <details>
   <summary><b>Combat</b></summary>
