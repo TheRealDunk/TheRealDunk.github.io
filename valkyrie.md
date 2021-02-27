@@ -1,4 +1,3 @@
-permalink: /valkyrie.html
 
 ## Valkyrie
 
