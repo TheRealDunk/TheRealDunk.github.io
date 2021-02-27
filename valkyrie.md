@@ -15,6 +15,15 @@
 <li>BedAura</li>
 <li>Blocker</li>
 <li>FastBow</li>
+<li>HoleFill</li>
+<li>KillAura</li>
+<li>Offhand</li>
+<li>Piston Aura</li>
+<li>SelfTrap</li>
+<li>SelfWeb</li>
+<li>Sorround</li>
+<li>ValkCa</li>
+  
 </ul>
 
 </details>
