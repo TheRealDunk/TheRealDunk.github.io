@@ -3,6 +3,7 @@
 
 #### Valkyrie is a private client currently not open to the public
 
+#### ModuleList
 <details>
   <summary><b>Combat</b></summary>
 
