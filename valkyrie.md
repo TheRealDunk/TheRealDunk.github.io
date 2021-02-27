@@ -92,3 +92,34 @@
 </ul>
 
 </details>
+
+<details>
+  <summary><b>Render</b></summary>
+
+<ul>
+<li>BlockHighlight</li>
+<li>BreakESP</li>
+<li>Capes</li>
+<li>Chams</li>
+<li>CityESP</li>
+<li>ESP</li>
+<li>ChatModifier</li>
+<li>ChatSuffix</li>
+<li>Freecam</li>
+<li>Fullbright</li>
+<li>HitSpheres</li>
+<li>HoleESP</li>
+<li>LogoutSpots</li>
+<li>Nametags</li>
+<li>NoRender</li>
+<li>RenderTweaks</li>
+<li>ShulkerViewer</li>
+<li>SkyColor</li>
+<li>Tracers</li>
+<li>ViewModel</li>
+<li>VoidESP</li>
+
+  
+</ul>
+
+</details>
